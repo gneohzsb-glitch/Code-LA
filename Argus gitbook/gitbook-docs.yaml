@@ -1,0 +1,18 @@
+site:
+  title: ARGUS Documentation
+  structure:
+    - type: space
+      key: space-english
+      title: English
+      path: en
+      default: true
+      content:
+        directory: ./english
+        language: en
+    - type: space
+      key: space-persian
+      title: فارسی
+      path: fa
+      content:
+        directory: ./persian
+        language: fa
