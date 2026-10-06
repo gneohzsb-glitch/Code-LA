@@ -1,4 +1,5 @@
-root: ./
+site:
+  title: ARGUS Documentation
 
 structure:
   readme: README.md
