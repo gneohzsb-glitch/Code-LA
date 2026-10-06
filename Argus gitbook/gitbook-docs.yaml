@@ -15,4 +15,4 @@ site:
       path: fa
       content:
         directory: ./persian
-        language: ar
+        language: fa
