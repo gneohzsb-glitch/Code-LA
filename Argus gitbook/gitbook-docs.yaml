@@ -1,3 +1,4 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: ARGUS Documentation
   structure:
@@ -15,4 +16,4 @@ site:
       path: fa
       content:
         directory: ./persian
-        language: fa
+        language: ar
